@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="delete_all">Delete All</string>
+    <string name="title">Title</string>
+    <string name="location">Location</string>
+    <string name="radius_in_meter">Radius In Meters</string>
+    <string name="transition_type">Transition Type</string>
+
+    <string-array name="transition_type_array">
+        <item>ENTER AND EXIT</item>
+        <item>ENTER</item>
+        <item>EXIT</item>
+        <item>DWELL</item>
+        <item>ALL</item>
+    </string-array>
+
+    <string name="default_radius_meter">100</string>
+    <string name="enter_string">Enter String</string>
+    <string name="exit_string">Exit String</string>
+    <string name="expiration_duration">Duration Millis: -1 = Never</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
